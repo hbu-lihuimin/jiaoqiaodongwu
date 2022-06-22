@@ -1,0 +1,2 @@
+#ssh 密钥生成
+ssh-keygen -t rsa -C <youxiang@163.com>
